@@ -1,0 +1,7 @@
+numpy
+pickle
+jupyter
+torch
+nltk
+pandas
+gensim
